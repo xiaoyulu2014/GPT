@@ -1,0 +1,7 @@
+exportPattern("^[[:alpha:]]+")
+import(mvtnorm)
+import(MASS)
+import(Matrix)
+import(magic)
+import(psych)
+import(plyr)
